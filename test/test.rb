@@ -21,5 +21,12 @@ describe Ikonic do
       .must_equal File.read(
         File.join(__dir__, 'results/heroicon-solid-bookmark-alt.svg')
       )
+  end
+
+  it "should render an icon with specified class" do
+    expect(Ikonic.icon('cake', { class: 'my-class' }))
+      .must_equal File.read(
+        File.join(__dir__, 'results/heroicon-outline-classed-cake.svg')
+      )
   end  
 end

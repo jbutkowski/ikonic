@@ -1,6 +1,10 @@
+$LOAD_PATH.push File.expand_path("lib", __dir__)
+
+require 'ikonic/version'
+
 Gem::Specification.new do |s|
-  s.name        = "Ikonic"
-  s.version     = "0.0.0"
+  s.name        = "ikonic"
+  s.version     = Ikonic::VERSION
   s.summary     = "The best icons in one place"
   s.description = "A pure ruby wrapper around your favourite icon libraries"
   s.authors     = ["Dave Kinkead"]
