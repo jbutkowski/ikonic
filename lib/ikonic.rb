@@ -17,6 +17,7 @@ class Ikonic
       ) if options[:width]
 
     template.insert(5, "class=\"#{options[:class]}\" ") if options[:class]
+    template.insert(5, "title=\"#{options[:title]}\" ") if options[:title]
 
     template
   end

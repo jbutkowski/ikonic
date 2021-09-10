@@ -50,4 +50,11 @@ describe Ikonic do
         File.join(__dir__, 'results/heroicon-outline-classed-cake.svg')
       )
   end
+
+  it "should accept a title tag" do
+    expect(Ikonic.icon('cake', { title: 'This is a cake' }))
+      .must_equal File.read(
+        File.join(__dir__, 'results/heroicon-cake-with-title.svg')
+      )
+  end
 end
