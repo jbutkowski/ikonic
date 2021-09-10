@@ -9,6 +9,27 @@ describe Ikonic do
       )
   end
 
+  it "should render a heroicon" do 
+    expect(Ikonic.icon('ban', { theme: 'heroicons' }))
+      .must_equal File.read(
+        File.join(__dir__, 'results/heroicon-outline-ban.svg')
+      )
+  end
+
+  it "should render an octicon" do 
+    expect(Ikonic.icon('alert', { theme: 'octicons' }))
+      .must_equal File.read(
+        File.join(__dir__, 'results/octicon-alert.svg')
+      )
+  end
+
+  it "should render a bootstrap icon" do 
+    expect(Ikonic.icon('app', { theme: 'bootstrap' }))
+      .must_equal File.read(
+        File.join(__dir__, 'results/bootstrap-app.svg')
+      )
+  end
+
   it "should render an icon with specified stroke-width" do
     expect(Ikonic.icon('cash', { width: 1 }))
       .must_equal File.read(
@@ -28,5 +49,5 @@ describe Ikonic do
       .must_equal File.read(
         File.join(__dir__, 'results/heroicon-outline-classed-cake.svg')
       )
-  end  
+  end
 end

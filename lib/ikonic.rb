@@ -1,9 +1,15 @@
 class Ikonic
   def self.icon(name, options={})
+
+    # Set defaults
     DEFAULTS.each { |key, val| options[key] ||= val }
 
-    template = File.read(
-      File.join(__dir__, "../assets/#{options[:theme]}/#{options[:style]}/#{name}.svg"))
+    template_format = options[:theme] == 'heroicons' ? 
+      "../assets/#{options[:theme]}/#{options[:style]}/#{name}.svg" :
+      "../assets/#{options[:theme]}/#{name}.svg"
+
+
+    template = File.read(File.join(__dir__, template_format))
 
     template.gsub!(
         /stroke-width="(\d+)"/, 
@@ -16,7 +22,7 @@ class Ikonic
   end
 
   DEFAULTS = {
-    theme: 'heroicon',
+    theme: 'heroicons',
     style: 'outline',
     size: 24,
     width: 2
