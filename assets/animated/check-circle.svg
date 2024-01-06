@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Keyshape -->
+<svg xmlns="http://www.w3.org/2000/svg" id="Comp-1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" viewBox="0 0 150 150" style="white-space: pre;">
+    <style>
+@keyframes boom_t { 0% { transform: translate(75px,75px) scale(0,0); } 23.8095% { transform: translate(75px,75px) scale(0,0); animation-timing-function: cubic-bezier(0,0,0,1); } 100% { transform: translate(75px,75px) scale(1,1); } }
+@keyframes Path-1_do { 0% { stroke-dashoffset: -120.5px; } 28.5714% { stroke-dashoffset: -120.497px; animation-timing-function: cubic-bezier(0.257,0,0,1); } 69.0476% { stroke-dashoffset: -240.995px; } 100% { stroke-dashoffset: -240.995px; } }
+@keyframes Path-1-2_do { 0% { stroke-dashoffset: -120.5px; } 38.0952% { stroke-dashoffset: -120.497px; animation-timing-function: cubic-bezier(0.257,0,0,1); } 80.9524% { stroke-dashoffset: -240.995px; } 100% { stroke-dashoffset: -240.995px; } }
+@keyframes Path-1-3_do { 0% { stroke-dashoffset: 121px; } 47.619% { stroke-dashoffset: -120.497px; animation-timing-function: cubic-bezier(0.257,0,0,1); } 88.0952% { stroke-dashoffset: -241px; } 100% { stroke-dashoffset: -241px; } }
+@keyframes Ellipse-Path-1-2_do { 0% { stroke-dashoffset: -330px; animation-timing-function: cubic-bezier(0.576,0,0.396,1); } 47.619% { stroke-dashoffset: 608px; } 100% { stroke-dashoffset: 608px; } }
+@keyframes Ellipse-Path-1-3_do { 0% { stroke-dashoffset: -330px; } 19.0476% { stroke-dashoffset: -250px; animation-timing-function: cubic-bezier(0.576,0,0.396,1); } 59.5238% { stroke-dashoffset: 608px; } 100% { stroke-dashoffset: 608px; } }
+@keyframes Ellipse-Path-1-4_do { 0% { stroke-dashoffset: -330px; } 30.9524% { stroke-dashoffset: -250px; animation-timing-function: cubic-bezier(0.438,0,0,1); } 76.1905% { stroke-dashoffset: 608px; } 100% { stroke-dashoffset: 608px; } }
+    </style>
+    <g id="boom" opacity="0.2" transform="translate(75,75) scale(0,0)" style="animation: 1.68s linear both boom_t;">
+        <g id="Oval-2-Copy" opacity="1">
+            <path id="Ellipse-Path-1" fill="#98faa8" d="M0,-75C41.4214,-75,75,-41.4214,75,0C75,41.4214,41.4214,75,0,75C-41.4214,75,-75,41.4214,-75,0C-75,-41.4214,-41.4214,-75,0,-75Z" fill-opacity="1" fill-rule="nonzero" opacity="1"/>
+        </g>
+    </g>
+    <g id="check" transform="translate(49.5,27.86)">
+        <g id="Group-1" opacity="1">
+            <path id="Path-1" fill="none" d="M0,41.96C0,41.96,22.41,64.35,22.41,64.35C22.41,64.35,83.63,0,83.63,0" stroke="#d3e3e6" stroke-opacity="1" stroke-width="9" stroke-miterlimit="1" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="120.5" stroke-dashoffset="-120.5" style="animation: 1.68s linear both Path-1_do;"/>
+        </g>
+    </g>
+    <g id="check-2" transform="translate(49.5,27.86)">
+        <g id="Group-1-2" opacity="1">
+            <path id="Path-1-2" fill="none" d="M0,41.96C0,41.96,22.41,64.35,22.41,64.35C22.41,64.35,83.63,0,83.63,0" stroke="#0fd10d" stroke-opacity="1" stroke-width="10" stroke-miterlimit="1" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="120.5" stroke-dashoffset="-120.5" style="animation: 1.68s linear both Path-1-2_do;"/>
+        </g>
+    </g>
+    <g id="check-3" transform="translate(49.5,27.86)">
+        <g id="Group-1-3" opacity="1">
+            <path id="Path-1-3" fill="none" d="M0,41.96C0,41.96,22.41,64.35,22.41,64.35C22.41,64.35,83.63,0,83.63,0" stroke="#16a34a" stroke-opacity="1" stroke-width="10" stroke-miterlimit="1" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="120.9" stroke-dashoffset="121" style="animation: 1.68s linear both Path-1-3_do;"/>
+        </g>
+    </g>
+    <g id="ring" transform="translate(75,75) rotate(25)">
+        <g id="Oval-2" opacity="1">
+            <path id="Ellipse-Path-1-2" fill="none" d="M0,-50C27.6142,-50,50,-27.6142,50,0C50,27.6142,27.6142,50,0,50C-27.6142,50,-50,27.6142,-50,0C-50,-27.6142,-27.6142,-50,0,-50Z" stroke="#d3e3e6" stroke-opacity="1" stroke-width="9" stroke-miterlimit="1" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="330" stroke-dashoffset="-330" fill-rule="nonzero" style="mix-blend-mode: normal; animation: 1.68s linear both Ellipse-Path-1-2_do;"/>
+        </g>
+    </g>
+    <g id="ring-2" transform="translate(75,75) rotate(25)">
+        <g id="Oval-2-2" opacity="1">
+            <path id="Ellipse-Path-1-3" fill="none" d="M0,-50C27.6142,-50,50,-27.6142,50,0C50,27.6142,27.6142,50,0,50C-27.6142,50,-50,27.6142,-50,0C-50,-27.6142,-27.6142,-50,0,-50Z" stroke="#0fd10d" stroke-opacity="1" stroke-width="9" stroke-miterlimit="1" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="330" stroke-dashoffset="-330" style="animation: 1.68s linear both Ellipse-Path-1-3_do;"/>
+        </g>
+    </g>
+    <g id="ring-3" transform="translate(75,75) rotate(25)">
+        <g id="Oval-2-3" opacity="1">
+            <path id="Ellipse-Path-1-4" fill="none" d="M0,-50C27.6142,-50,50,-27.6142,50,0C50,27.6142,27.6142,50,0,50C-27.6142,50,-50,27.6142,-50,0C-50,-27.6142,-27.6142,-50,0,-50Z" stroke="#16a34a" stroke-opacity="1" stroke-width="10" stroke-miterlimit="1" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="330" stroke-dashoffset="-330" style="animation: 1.68s linear both Ellipse-Path-1-4_do;"/>
+        </g>
+    </g>
+</svg>
