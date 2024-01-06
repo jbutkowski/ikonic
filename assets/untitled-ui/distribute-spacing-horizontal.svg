@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>distribute-spacing-horizontal</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Layout" transform="translate(-64, -756)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="Icon" transform="translate(67, 759)">
+                <path d="M9,16 C9.93188256,16 10.3978244,16 10.7653666,15.8477592 C11.255423,15.6447714 11.6447712,15.2554229 11.8477592,14.7653666 C12,14.3978244 12,13.9318823 12,13 L12,5 C12,4.06811792 12,3.60217649 11.8477592,3.2346344 C11.6447714,2.7445783 11.2554235,2.35523015 10.7653675,2.15224218 C10.3978255,2 9.93188399,2 9,2 C8.06811762,2 7.60217565,2 7.23463345,2.15224123 C6.74457714,2.35522909 6.35522921,2.7445772 6.15224123,3.23463345 C6,3.60217562 6,4.06811762 6,5 L6,13 C6,13.9318826 6,14.3978236 6.15224075,14.7653656 C6.35522859,15.2554218 6.74457684,15.6447703 7.23463297,15.8477583 C7.60217494,16 8.06811625,16 9,16 Z"></path>
+                <path d="M18,0 L18,18 M0,18 L0,0"></path>
+            </g>
+        </g>
+    </g>
+</svg>

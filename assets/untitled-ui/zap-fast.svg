@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>zap-fast</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="General" transform="translate(-880, -1876)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="Icon" transform="translate(882, 1879)">
+                <path d="M15,0 L8.40356541,9.23500824 C8.11160141,9.64375785 7.96561966,9.84813266 7.97193813,10.018528 C7.97743918,10.166879 8.04857786,10.3051141 8.16609859,10.3958178 C8.30108243,10.5 8.55223835,10.5 9.05455112,10.5 L14,10.5 L13,18 L19.5964336,8.76499176 C19.8883976,8.35624215 20.0343813,8.15186734 20.0282593,7.98147202 C20.0225618,7.83312105 19.9514231,7.6948854 19.8339024,7.60418177 C19.6989185,7.5 19.4477607,7.5 18.9454479,7.5 L14,7.5 L15,0 Z"></path>
+                <path d="M1.5,14.5 L7,14.5 M0,9 L4.5,9 M7,3.5 L2,3.5"></path>
+            </g>
+        </g>
+    </g>
+</svg>

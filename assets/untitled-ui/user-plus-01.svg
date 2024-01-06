@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>user-plus-01</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Users" transform="translate(-336, -516)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="Icon" transform="translate(338, 519)">
+                <path d="M8,9 C10.4852815,9 12.5,6.98528147 12.5,4.5 C12.5,2.01471853 10.4852815,0 8,0 C5.51471853,0 3.5,2.01471853 3.5,4.5 C3.5,6.98528147 5.51471853,9 8,9 Z"></path>
+                <path d="M5.5,12.5 L5.5,12.5 L5.5,12.5 C4.10443783,12.5 3.40665436,12.5 2.83885813,12.6722393 C1.56045496,13.0600398 0.560040176,14.0604545 0.172239631,15.3388577 C0,15.9066539 0,16.6044374 0,18 M17,12 L17,18 M14,15 L20,15"></path>
+            </g>
+        </g>
+    </g>
+</svg>

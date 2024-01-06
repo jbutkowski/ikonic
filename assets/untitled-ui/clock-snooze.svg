@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>clock-snooze</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Time" transform="translate(-880, -156)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="clock-snooze" transform="translate(882, 158)">
+                <path d="M14.5,15 L19.5,15 L14.5,20 L19.5,20 M19.9506264,11 C19.9832821,10.6710939 20,10.3374996 20,10 C20,4.47715235 15.5228481,0 10,0 C4.47715235,0 0,4.47715235 0,10 C0,15.5228481 4.47715235,20 10,20 C10.1676626,20 10.3343611,19.9958744 10.5,19.9877167 C10.6677876,19.979454 10.834487,19.9670563 11,19.9506226 M10,4 L10,10 L13.7383718,11.8691864" id="Icon"></path>
+            </g>
+        </g>
+    </g>
+</svg>

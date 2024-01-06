@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>refresh-ccw-05</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Arrows" transform="translate(-880, -596)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="refresh-ccw-05" transform="translate(882.4934, 599.4987)">
+                <g id="Icon" transform="translate(0, 0)">
+                    <polyline points="0 12.8350668 2.7320509 13.5671177 3.46410155 10.8350668"></polyline>
+                    <polyline points="15.5492277 6.16711807 16.2812786 3.43506742 19.0133286 4.16711807"></polyline>
+                    <path d="M6.05320072,16.2687244 C8.45233727,17.3330884 11.3097932,17.2752818 13.7567797,15.8625135 C17.8222671,13.5153036 19.2152061,8.31678534 16.8679962,4.25129795 L16.6179962,3.81828523 M2.14509797,12.7514191 C-0.202111959,8.68593168 1.19082689,3.48741281 5.2563138,1.14020312 C7.70330071,-0.272565365 10.5607567,-0.330371976 12.9598932,0.733991504"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>arrow-circle-broken-left</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Arrows" transform="translate(-64, -436)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="Icon" transform="translate(65.9999, 438)">
+                <polyline points="10.0000687 6 6.00006914 10 10.0000687 14"></polyline>
+                <path d="M18.662178,15 C16.9331303,17.989006 13.7014112,20 10,20 C4.47715187,20 0,15.5228481 0,10 C0,4.47715235 4.47715187,0 10,0 C13.7014112,0 16.9331303,2.01099348 18.662178,5 M20.0000687,10 L6.00006914,10"></path>
+            </g>
+        </g>
+    </g>
+</svg>

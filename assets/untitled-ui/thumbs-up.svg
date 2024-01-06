@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>thumbs-up</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Alerts-&amp;-feedback" transform="translate(-880, -316)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="Icon" transform="translate(882, 318)">
+                <path d="M18.3913574,17.4561729 C18.1662043,18.919668 16.9069561,20 15.4262428,20 L2,20 C0.895430446,20 0,19.1045694 0,18 L0,11 C0,9.89543056 0.895430565,9 2,9 L4.35012674,9 C4.74531543,9 5.1034371,8.76726642 5.26393843,8.40613842 L8.78305626,0.48812288 C8.91497974,0.191295028 9.2093367,0 9.53416061,0 C10.896006,0 12,1.10399377 12,2.46583915 L12,6 C12,6.55228472 12.4477153,7 13,7 L16.5031662,7 C18.3418224,7 19.7478617,8.63889623 19.4682808,10.456172 L18.3913574,17.4561729 Z"></path>
+                <line x1="5" y1="20" x2="5" y2="9"></line>
+            </g>
+        </g>
+    </g>
+</svg>

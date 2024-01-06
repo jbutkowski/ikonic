@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>certificate-02</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Education" transform="translate(-608, -196)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="Icon" transform="translate(611, 198)">
+                <path d="M16,0 L2,0 C0.895430565,0 0,0.994922757 0,2.22222209 L0,17.7777786 C0,19.0050774 0.895430446,20 2,20 L16,20 C17.1045685,20 18,19.0050774 18,17.7777786 L18,2.22222233 C18,0.994922876 17.1045685,0 16,0 Z"></path>
+                <path d="M8.99760342,4.21193838 C8.29783016,3.43280017 7.13091105,3.22321415 6.25414324,3.93667102 C5.37737542,4.65012789 5.2539385,5.84299237 5.94246912,6.68680048 C6.4014895,7.24933922 7.4198676,8.1870724 8.99760342,9.5 C10.5753382,8.1870724 11.5937158,7.24933922 12.0527363,6.68680048 C12.741267,5.84299237 12.6329004,4.64262307 11.7410622,3.93667102 C10.8492239,3.23071897 9.69737679,3.43280017 8.99760342,4.21193838 Z"></path>
+                <path d="M12,16.5 L6,16.5 M4,13 L14,13"></path>
+            </g>
+        </g>
+    </g>
+</svg>

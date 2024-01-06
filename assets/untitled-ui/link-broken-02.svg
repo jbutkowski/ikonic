@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>link-broken-02</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="General" transform="translate(-608, -156)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="link-broken-02" transform="translate(610, 158)">
+                <path d="M13.5,6.49997807 L6.5,13.4999781 M7,0 L7,2 M13,20 L13,18 M0,7 L2,7 M20,13 L18,13 M1.5,1.5 L2.91421366,2.91421366 M18.5000286,18.4999065 L17.0858154,17.0856934 M10.0000343,15.656765 L7.87871361,17.7780857 C6.31661701,19.3401833 3.78395653,19.3401833 2.22185946,17.7780857 C0.659762502,16.2159901 0.659762383,13.6833296 2.22185922,12.121233 L4.34318018,9.99991226 M17.7782097,7.87859154 L17.7782097,7.87859154 L17.7782097,7.87859154 C19.3403053,6.31649446 19.3403053,3.78383446 17.7782097,2.22173762 C16.2161121,0.659640551 13.6834517,0.65964067 12.1213541,2.22173786 C10.9497815,3.39331071 10.9497817,5.29280536 12.1213544,6.46437803" id="Icon"></path>
+            </g>
+        </g>
+    </g>
+</svg>

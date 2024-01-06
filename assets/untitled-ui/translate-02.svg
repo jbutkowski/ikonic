@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>translate-02</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="General" transform="translate(-880, -1156)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="Icon" transform="translate(882, 1158)">
+                <line x1="3" y1="6" x2="8" y2="11"></line>
+                <polyline points="2 12 8 6 10 3"></polyline>
+                <line x1="0" y1="3" x2="12" y2="3"></line>
+                <line x1="5" y1="0" x2="6" y2="0"></line>
+                <path d="M17.2935844,15 L11.7064157,15 C11.4302733,15 11.2064157,14.7761424 11.2064157,14.5 C11.2064157,14.4253393 11.2231358,14.3516262 11.2553486,14.2842722 L13.7782936,9.00902367 L13.7782936,9.00902367 C14.0091748,8.52627182 14.1246152,8.28489548 14.2825727,8.20861721 C14.4199357,8.14228445 14.5800643,8.14228445 14.7174273,8.20861721 C14.8753848,8.28489548 14.9908257,8.52627218 15.2217073,9.00902462 L17.7446515,14.2842723 C17.8637946,14.5333898 17.7584296,14.831924 17.5093121,14.9510671 C17.4419581,14.9832799 17.3682451,15 17.2935844,15 Z"></path>
+                <path d="M10.913044,15 L9,19 M18.086956,15 L20,19"></path>
+            </g>
+        </g>
+    </g>
+</svg>

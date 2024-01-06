@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>cloud-sun-03</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Weather" transform="translate(-336, -276)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="Icon" transform="translate(338, 278)">
+                <path d="M4,20 C1.79086113,20 0,18.2091389 0,16 C0,13.7908611 1.79086113,12 4,12 C4.11332893,12 4.22555733,12.0047135 4.33649921,12.0139542 C5.15621948,9.67628336 7.3823514,8 10,8 C12.2248287,8 14.166832,9.21092713 15.202879,11.0096531 C15.3010931,11.0032513 15.4001665,11 15.5,11 C17.985281,11 20,13.0147185 20,15.5 C20,17.985281 17.985281,20 15.5,20 C11.7633128,20 8.05457878,20 4,20 Z"></path>
+                <path d="M1.15002716,9 C1.05164537,8.51533508 1,8.01369858 1,7.5 C1,3.35786438 4.35786438,0 8.5,0 C12.3030767,0 15.4450216,2.83064055 15.9339142,6.5"></path>
+            </g>
+        </g>
+    </g>
+</svg>

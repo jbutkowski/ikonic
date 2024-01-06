@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>heart-rounded</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="General" transform="translate(-336, -1076)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="heart-rounded" transform="translate(338, 1079)">
+                <path d="M14.1111116,0 C17.6333342,0 20,3.35250044 20,6.4800005 C20,12.8137507 10.1777778,18 10,18 C9.82222222,18 0,12.8137507 0,6.4800005 C0,3.35250044 2.36666679,0 5.88888931,0 C7.91111159,0 9.23333329,1.02375001 10,1.92375004 C10.7666667,1.02375001 12.0888894,0 14.1111116,0 Z" id="Icon"></path>
+            </g>
+        </g>
+    </g>
+</svg>

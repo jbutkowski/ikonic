@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>git-merge</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Development" transform="translate(-608, -316)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="Icon" transform="translate(611, 319)">
+                <path d="M15,18 C16.6568542,18 18,16.6568542 18,15 C18,13.3431457 16.6568542,12 15,12 C13.3431457,12 12,13.3431457 12,15 C12,16.6568542 13.3431457,18 15,18 Z"></path>
+                <path d="M3,6 C4.65685415,6 6,4.65685415 6,3 C6,1.34314573 4.65685415,0 3,0 C1.34314573,0 0,1.34314573 0,3 C0,4.65685415 1.34314573,6 3,6 Z"></path>
+                <path d="M3,18 L3,6 C3,8.38694835 3.94821143,10.6761339 5.63603878,12.3639612 C7.32386613,14.0517886 9.61305165,15 12,15"></path>
+            </g>
+        </g>
+    </g>
+</svg>

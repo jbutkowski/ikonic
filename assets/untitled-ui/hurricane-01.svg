@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>hurricane-01</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Weather" transform="translate(-336, -436)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="Icon" transform="translate(339, 439)">
+                <path d="M18,3 C18,4.65685427 13.9705629,6 9,6 C4.02943707,6 0,4.65685427 0,3 C0,1.34314573 4.02943707,0 9,0 C13.9705629,0 18,1.34314573 18,3 Z"></path>
+                <path d="M13.5,17.5001831 C12.2465091,17.8140276 10.6884089,18 9,18 C7.31159115,18 5.75349081,17.8140276 4.5,17.5001831 M15,13.4305496 C13.534111,13.9841634 11.3893852,14.333333 9,14.333333 C6.61061478,14.333333 4.46588886,13.9841634 3,13.4305496 M1.5,8.66785049 C2.9314276,9.55983269 5.75311327,10.166667 9,10.166667 C12.2468872,10.166667 15.068572,9.55983269 16.5,8.66785049"></path>
+            </g>
+        </g>
+    </g>
+</svg>

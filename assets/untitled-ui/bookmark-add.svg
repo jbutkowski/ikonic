@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>bookmark-add</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="General" transform="translate(-64, -476)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="Icon" transform="translate(69, 479)">
+                <path d="M0,4.79999971 C0,3.11984241 0,2.27976376 0.326980442,1.6380285 C0.614600539,1.0735423 1.0735423,0.614600539 1.6380285,0.326980442 C2.27976376,0 3.11984253,0 4.80000019,0 L9.19999981,0 C10.8801577,0 11.7202366,0 12.3619719,0.326980442 C12.9264581,0.614600539 13.3853993,1.0735423 13.6730194,1.6380285 C14,2.27976376 14,3.11984253 14,4.80000019 L14,18 L7,14 L0,18 L0,4.79999971 Z"></path>
+                <path d="M7,4 L7,10 M4,7 L10,7"></path>
+            </g>
+        </g>
+    </g>
+</svg>

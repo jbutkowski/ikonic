@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pie-chart-03</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Charts" transform="translate(-880, -196)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="Icon" transform="translate(882, 198)">
+                <path d="M10,0 C11.3132193,0 12.6135793,0.258657873 13.8268356,0.761205316 C15.040092,1.26375276 16.1424838,2.00034803 17.0710697,2.92893457 C17.9996557,3.85752112 18.7362515,4.95991349 19.2387981,6.17317009 C19.7413448,7.38642669 20,8.68678737 20,10 L10,10 L10,0 Z"></path>
+                <path d="M20,10 C20,11.5781107 19.626509,13.1338046 18.9100647,14.5399055 C18.1936204,15.9460065 17.1545655,17.1625836 15.8778524,18.0901699 L10,10 L20,10 Z"></path>
+                <path d="M20,10 C20,15.5228543 15.5228477,20 10,20 C4.47715235,20 0,15.5228477 0,10 C0,4.47715235 4.47715235,0 10,0 C15.5228477,0 20,4.47715902 20,10 Z"></path>
+            </g>
+        </g>
+    </g>
+</svg>

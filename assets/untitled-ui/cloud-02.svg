@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>cloud-02</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Weather" transform="translate(-64, -196)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="cloud-02" transform="translate(66, 200)">
+                <path d="M4,15 C1.79086089,15 0,13.2091389 0,11 C0,9.13576221 1.27531767,7.5693922 3.00110674,7.12573433 C3.00037003,7.0839119 3,7.04199886 3,7 C3,3.13400698 6.1340065,0 10,0 C13.6098614,0 16.5815144,2.73249197 16.9594288,6.24194241 C18.7283783,6.84809589 20,8.52554417 20,10.5 C20,12.985281 17.985281,15 15.5,15 C11.7608995,15 8.18764019,15 4,15 Z" id="Icon"></path>
+            </g>
+        </g>
+    </g>
+</svg>

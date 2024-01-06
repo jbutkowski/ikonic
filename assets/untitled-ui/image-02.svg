@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>image-02</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Images" transform="translate(-336, -236)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="Icon" transform="translate(338, 238)">
+                <path d="M6.5,8.5 C7.60456967,8.5 8.5,7.60456967 8.5,6.5 C8.5,5.39543056 7.60456967,4.5 6.5,4.5 C5.39543056,4.5 4.5,5.39543056 4.5,6.5 C4.5,7.60456967 5.39543056,8.5 6.5,8.5 Z"></path>
+                <path d="M10,20 C15.5228481,20 20,15.5228481 20,10 C20,4.47715235 15.5228481,0 10,0 C4.47715235,0 0,4.47715235 0,10 C0,15.5228481 4.47715235,20 10,20 Z"></path>
+                <path d="M3.99958181,18.0004196 L12.8686295,9.13137054 C13.2646399,8.73535866 13.462656,8.53734466 13.6909828,8.4631567 C13.8918266,8.3978987 14.1081734,8.39789873 14.3090172,8.4631567 C14.5373449,8.53734469 14.7353573,8.73535866 15.1313705,9.13137054 L19.4052505,13.4052505"></path>
+            </g>
+        </g>
+    </g>
+</svg>

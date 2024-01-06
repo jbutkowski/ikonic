@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>star-07</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Shapes" transform="translate(-880, -236)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="Icon" transform="translate(882, 238)">
+                <polygon points="10 5 11.5450001 8.12999916 15 8.63499928 12.5 11.0699987 13.0900002 14.5099983 10 12.8849993 6.90999985 14.5099983 7.5 11.0699987 5 8.63499928 8.45499992 8.12999916"></polygon>
+                <path d="M18,10 L20,10 M15.6567383,15.6568604 L17.0709515,17.0710735 M0,10 L2,10 M2.92871094,2.92895508 L4.34292459,4.34316874 M10,0 L10,2 M17.0709515,2.92895508 L15.6567383,4.34316874 M10,18 L10,20 M2.92871094,17.0710735 L4.34292459,15.6568604"></path>
+            </g>
+        </g>
+    </g>
+</svg>

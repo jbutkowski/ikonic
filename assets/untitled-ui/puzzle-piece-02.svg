@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>puzzle-piece-02</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Development" transform="translate(-608, -676)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="puzzle-piece-02" transform="translate(610, 678)">
+                <path d="M10,0 L13.6000004,3.5999999 C16,-2.70000029 22.6999998,4 16.3999996,6.39999962 L20,10 L16.3999996,13.6000004 C14,7.30000019 7.30000019,14 13.6000004,16.3999996 L10,20 L6.39999962,16.3999996 C4,22.6999998 -2.70000029,16 3.5999999,13.6000004 L0,10 L3.5999999,6.39999962 C6,12.6999998 12.6999998,6 6.39999962,3.5999999 L10,0 Z" id="Icon"></path>
+            </g>
+        </g>
+    </g>
+</svg>

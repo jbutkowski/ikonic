@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>lightning-01</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Weather" transform="translate(-336, -556)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="lightning-01" transform="translate(339.5675, 558)">
+                <path d="M9.4324789,0 L0.525934875,10.6878529 C0.177126437,11.106423 0.00272222371,11.3157084 0,11.4924612 C-0.00226002028,11.6461176 0.0662102699,11.7923047 0.185735673,11.8888931 C0.323227212,12 0.59565568,12 1.1405127,12 L8.4324789,12 L7.43247938,20 L16.3390236,9.31214714 C16.687832,8.89357701 16.8622372,8.68429163 16.8649578,8.5075388 C16.8672195,8.35388242 16.7987475,8.20769534 16.6792221,8.11110687 C16.5417306,8 16.2693033,8 15.7244463,8 L8.4324789,8 L9.4324789,0 Z" id="Icon"></path>
+            </g>
+        </g>
+    </g>
+</svg>

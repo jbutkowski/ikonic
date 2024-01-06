@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>corner-down-right</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Arrows" transform="translate(-608, -716)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="Icon" transform="translate(612, 720)">
+                <polyline points="11 6 16 11 11 16"></polyline>
+                <path d="M0,0 L0,1.39999962 C0,4.76031494 0,6.4404726 0.653960884,7.72394323 C1.22920108,8.85291576 2.14708447,9.77079868 3.276057,10.3460388 C4.5595274,11 6.23968506,11 9.60000038,11 L16,11"></path>
+            </g>
+        </g>
+    </g>
+</svg>

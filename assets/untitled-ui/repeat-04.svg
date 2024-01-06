@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>repeat-04</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Media-&amp;-devices" transform="translate(-608, -716)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="Icon" transform="translate(611.5, 717.6)">
+                <polyline points="9.5 20.7999992 7.5 18.7999992 9.5 16.7999992"></polyline>
+                <polyline points="7.5 4 9.5 2 7.5 0"></polyline>
+                <path d="M8.5,18.8999996 C13.1944203,18.8999996 17,15.0944195 17,10.3999996 C17,7.57446241 15.6213341,5.07093024 13.5,3.52539873 M8.5,1.89999998 C3.80557966,1.89999998 0,5.70557928 0,10.3999996 C0,13.2255363 1.37866545,15.7290697 3.5,17.274601"></path>
+            </g>
+        </g>
+    </g>
+</svg>

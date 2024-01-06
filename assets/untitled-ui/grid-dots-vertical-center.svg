@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>grid-dots-vertical-center</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Layout" transform="translate(-608, -156)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="grid-dots-vertical-center" transform="translate(611, 159)">
+                <path d="M0.0100002289,0 L0,0 M0.0100002289,18 L0,18 M0.0100002289,13.5 L0,13.5 M0.0100002289,4.5 L0,4.5 M4.51000023,0 L4.5,0 M4.51000023,18 L4.5,18 M13.5100002,0 L13.5,0 M13.5100002,18 L13.5,18 M9.01000023,0 L9,0 M9.01000023,18 L9,18 M9.01000023,13.5 L9,13.5 M9.01000023,4.5 L9,4.5 M18.0100002,0 L18,0 M18.0100002,18 L18,18 M18.0100002,13.5 L18,13.5 M18.0100002,4.5 L18,4.5 M18,9 L0,9" id="Icon"></path>
+            </g>
+        </g>
+    </g>
+</svg>

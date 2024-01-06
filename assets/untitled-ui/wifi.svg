@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>wifi</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Media-&amp;-devices" transform="translate(-880, -1116)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="wifi" transform="translate(881.1934, 1120.5)">
+                <path d="M10.8166409,15 L10.8066406,15 M21.6130524,4.20076132 C18.76618,1.59199047 14.9722691,0 10.8065271,0 C6.64078522,0 2.84687281,1.59199047 0,4.20076132 M3.53857422,7.74296951 C5.47669709,6.03565705 8.0207119,5 10.8066177,5 C13.5925231,5 16.1365385,6.03565705 18.0746613,7.74296951 M14.5049696,11.2751026 C13.4858608,10.4762682 12.2018137,10 10.8065271,10 C9.39013124,10 8.08836496,10.4907882 7.06201172,11.3115807" id="Icon"></path>
+            </g>
+        </g>
+    </g>
+</svg>

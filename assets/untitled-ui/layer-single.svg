@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>layer-single</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Layout" transform="translate(-608, -276)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="layer-single" transform="translate(610, 283.059)">
+                <path d="M10.3577709,0.119868465 C10.2265887,0.0542773753 10.1609981,0.0214818288 10.0921993,0.00857414398 C10.031265,-0.0028580483 9.968735,-0.0028580483 9.90780067,0.00857414398 C9.83900189,0.0214818288 9.77341123,0.0542773679 9.64222908,0.119868442 L0,4.94098282 L9.64222908,9.76209736 C9.77341126,9.82768845 9.83900189,9.86048442 9.90780067,9.87339211 C9.968735,9.8848243 10.031265,9.8848243 10.0921993,9.87339211 C10.1609981,9.86048442 10.2265888,9.82768843 10.3577709,9.76209736 L20,4.94098282 L10.3577709,0.119868465 Z" id="Icon"></path>
+            </g>
+        </g>
+    </g>
+</svg>

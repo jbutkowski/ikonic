@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>microphone-off-01</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Media-&amp;-devices" transform="translate(-336, -556)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="Icon" transform="translate(338, 558)">
+                <path d="M7,10 C7,11.6568542 8.34314585,13 10,13 C10.8290801,13 11.5796099,12.6636839 12.1226044,12.1200361 L7,7 L7,10 Z"></path>
+                <path d="M13,7.4000001 L13,3 C13,1.34314585 11.6568542,0 10,0 C8.82238412,0 7.80324504,0.678518772 7.31220436,1.66593421 M10,20 L10,17 C6.13400698,17 3,13.865993 3,10 C3,9.70138058 3.24207887,9.45930172 3.54069828,9.45930172 C3.73300685,9.45930172 3.91084333,9.56144572 4.00774205,9.7275578 M10,17 C13.8659935,17 17,13.865993 17,10 C17,9.62101364 16.6927709,9.3137845 16.3137845,9.3137845 C16.102025,9.3137845 15.9021266,9.41155157 15.7721188,9.57870443 M14,20 L6,20 M0,0 L20,20"></path>
+            </g>
+        </g>
+    </g>
+</svg>

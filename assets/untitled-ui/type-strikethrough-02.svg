@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>type-strikethrough-02</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Editor" transform="translate(-880, -956)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="type-strikethrough-02" transform="translate(883, 959)">
+                <path d="M13,17 L5,17 M7.25,17 L7.25,7.5 M10.75,17 L10.75,11 M18,18 L0,0 M1,2.99994659 L1,2.99994659 L1,2.99994659 C1,2.4587338 1.21497202,1.96773025 1.56418633,1.60766602 M14,1 L14,1 L14,1 C14.9318829,1 15.3978243,1 15.7653666,1.15224099 C16.2554226,1.3552289 16.6447716,1.74457687 16.8477592,2.23463297 C17,2.60217512 17,3.0681169 17,4 M7.25,2 L7.25,1 M10.75,1 L10.75,5" id="Icon"></path>
+            </g>
+        </g>
+    </g>
+</svg>

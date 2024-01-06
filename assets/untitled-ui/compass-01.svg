@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>compass-01</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Maps-&amp;-travel" transform="translate(-64, -276)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="Icon" transform="translate(66, 278)">
+                <path d="M10,20 C15.5228481,20 20,15.5228481 20,10 C20,4.47715235 15.5228481,0 10,0 C4.47715235,0 0,4.47715235 0,10 C0,15.5228481 4.47715235,20 10,20 Z"></path>
+                <polygon points="8.5 8.5 6 10 8.5 11.5 10 14 11.5 11.5 14 10 11.5 8.5 10 6"></polygon>
+                <path d="M18,10 L20,10 M15.6568546,15.6568546 L17.0710678,17.0710678 M0,10 L2,10 M2.92893219,2.92893219 L4.34314585,4.34314585 M10,0 L10,2 M17.0710678,2.92893219 L15.6568546,4.34314585 M10,18 L10,20 M2.92893219,17.0710678 L4.34314585,15.6568546"></path>
+            </g>
+        </g>
+    </g>
+</svg>

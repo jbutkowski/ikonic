@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>type-01</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Editor" transform="translate(-880, -796)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="Icon" transform="translate(884, 800)">
+                <path d="M0,3 C0,2.06811684 0,1.60217521 0.152240932,1.23463309 C0.355228841,0.744576931 0.744576931,0.355228841 1.23463309,0.152240932 C1.60217521,0 2.06811684,0 3,0 L13,0 C13.9318832,0 14.3978244,0 14.7653666,0.152240932 C15.2554227,0.355228841 15.6447713,0.744576931 15.8477592,1.23463309 C16,1.60217521 16,2.06811684 16,3"></path>
+                <path d="M11,16 L5,16 M8,0 L8,16"></path>
+            </g>
+        </g>
+    </g>
+</svg>

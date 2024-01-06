@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>cursor-click-02</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Editor" transform="translate(-336, -356)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="Icon" transform="translate(338, 358)">
+                <polygon points="6.5 6.5 10.6111107 19.2777786 13.5 16.3888893 17.1111107 20 20 17.1111107 16.3888893 13.5 19.2777786 10.6111107"></polygon>
+                <path d="M7,0 L7,1.5 M2,2 L3.06066012,3.06066012 M2,12.0606604 L3.06066012,11 M12.0606604,2 L11,3.06066012 M1.5,7 L0,7"></path>
+            </g>
+        </g>
+    </g>
+</svg>

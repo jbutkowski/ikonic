@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>spacing-height-02</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Layout" transform="translate(-880, -596)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="spacing-height-02" transform="translate(883, 599)">
+                <path d="M0,0 L18,0 M0,18 L18,18 M9,3.50003529 L9,14.5000353 M6,3.5 L12.0000896,3.50001001 M12.0000896,14.5000105 L6,14.5" id="Icon"></path>
+            </g>
+        </g>
+    </g>
+</svg>

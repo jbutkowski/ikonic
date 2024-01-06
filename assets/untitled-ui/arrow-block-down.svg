@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>arrow-block-down</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Arrows" transform="translate(-64, -156)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="arrow-block-down" transform="translate(69, 159)">
+                <path d="M4,0.799999893 C4,0.519973695 4,0.379960611 4.05449677,0.27300474 C4.10243345,0.178923704 4.1789235,0.102433428 4.27300453,0.0544967428 C4.3799604,0 4.5199739,0 4.80000019,0 L9.19999981,0 C9.48002627,0 9.6200396,0 9.72699547,0.0544967428 C9.8210765,0.102433428 9.89756655,0.178923704 9.94550323,0.27300474 C10,0.379960611 10,0.519973785 10,0.800000072 L10,11 L14,11 L7,18 L0,11 L4,11 L4,0.799999893 Z" id="Icon"></path>
+            </g>
+        </g>
+    </g>
+</svg>

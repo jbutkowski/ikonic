@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>scissors-cut-02</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Editor" transform="translate(-880, -476)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="Icon" transform="translate(883, 479)">
+                <path d="M6,3 C6,1.34314561 4.65685391,0 3,0 C1.34314537,0 0,1.34314585 0,3 C0,4.65685439 1.34314561,6 3,6 C4.65685415,6 6,4.65685415 6,3 Z"></path>
+                <path d="M6,15 C6,13.3431458 4.65685391,12 3,12 C1.34314537,12 0,13.3431458 0,15 C0,16.6568544 1.34314561,18 3,18 C4.65685415,18 6,16.6568544 6,15 Z"></path>
+                <path d="M18,14 L1.5,5.60000038 M1.5,12.3999996 L18,4 M14.5100002,9 L14.5,9 M19,9 L19.0100002,9"></path>
+            </g>
+        </g>
+    </g>
+</svg>

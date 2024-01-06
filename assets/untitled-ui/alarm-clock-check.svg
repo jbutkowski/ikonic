@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>alarm-clock-check</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Time" transform="translate(-64, -196)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="Icon" transform="translate(66, 199)">
+                <line x1="3" y1="0" x2="0" y2="3"></line>
+                <line x1="20" y1="3" x2="17" y2="0"></line>
+                <line x1="4" y1="16" x2="2" y2="18"></line>
+                <line x1="16" y1="16" x2="18" y2="18"></line>
+                <path d="M10,18 C12.121732,18 14.1565636,17.1571456 15.6568546,15.6568546 C17.1571456,14.1565636 18,12.121732 18,10 C18,7.878268 17.1571456,5.84343684 15.6568546,4.34314585 C14.1565636,2.84285486 12.121732,2 10,2 C7.878268,2 5.84343684,2.84285486 4.34314585,4.34314585 C2.84285486,5.84343684 2,7.878268 2,10 C2,12.121732 2.84285486,14.1565636 4.34314585,15.6568546 C5.84343684,17.1571456 7.878268,18 10,18 Z"></path>
+                <polyline points="7 10.5 9 12.5 13.5 8"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

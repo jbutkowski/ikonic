@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>microphone-01</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Media-&amp;-devices" transform="translate(-336, -476)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="Icon" transform="translate(341, 478)">
+                <path d="M4,3 C4,1.34314561 5.34314585,0 7,0 C8.65685415,0 10,1.34314585 10,3 L10,10 C10,11.6568542 8.65685415,13 7,13 C5.34314585,13 4,11.6568542 4,10 L4,3 Z"></path>
+                <path d="M14,10 L14,10 L14,10 C14,13.865993 10.8659935,17 7,17 C3.13400698,17 0,13.865993 0,10 C-1.3527075e-16,8.8954305 0.8954305,8 2,8 M7,20 L7,17 M3,20 L11,20"></path>
+            </g>
+        </g>
+    </g>
+</svg>

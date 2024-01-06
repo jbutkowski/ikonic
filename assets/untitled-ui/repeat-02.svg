@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>repeat-02</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Media-&amp;-devices" transform="translate(-608, -636)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="Icon" transform="translate(610, 638)">
+                <polyline points="9 0 12 3 9 6"></polyline>
+                <polyline points="11 20 8 17 11 14"></polyline>
+                <path d="M12,3 L4.80000019,3 C3.11984253,3 2.2797637,3 1.6380285,3.32698035 C1.07354224,3.61460045 0.614600539,4.07354236 0.326980442,4.63802862 C0,5.27976382 0,6.11984253 0,7.80000067 L0,13.5 C0,13.9644203 0,14.1966305 0.0256653987,14.3915787 C0.202896025,15.7377796 1.26222074,16.7971039 2.60842156,16.9743347 C2.80336976,17 3.03557968,17 3.5,17 M8,17 L15.1999998,17 C16.8801575,17 17.7202377,17 18.3619728,16.6730194 C18.9264584,16.3853998 19.3853998,15.9264574 19.6730194,15.3619719 C20,14.7202368 20,13.8801575 20,12.1999998 L20,6.5 C20,6.03557968 20,5.80336952 19.9743347,5.60842133 C19.7971039,4.2622205 18.7377796,3.20289591 17.3915787,3.02566528 C17.1966305,3 16.9644203,3 16.5,3"></path>
+            </g>
+        </g>
+    </g>
+</svg>

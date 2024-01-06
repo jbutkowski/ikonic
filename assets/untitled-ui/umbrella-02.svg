@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>umbrella-02</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Weather" transform="translate(-880, -436)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="Icon" transform="translate(882, 438)">
+                <path d="M10,0 C4.47715235,0 0,4.47715235 0,10 C0.926551342,9.33333333 1.92655134,9 3,9 C4.07344882,9 5.07344882,9.33333333 6,10 C7.59321785,9.33333333 8.92655118,9 10,9 C11.0734488,9 12.4067822,9.33333333 14,10 C14.9265512,9.33333333 15.9265512,9 17,9 C18.0734482,9 19.0734482,9.33333333 20,10 C20,4.47715235 15.5228481,0 10,0 Z"></path>
+                <path d="M5,17.4000015 C5,18.8359423 6.11928821,20 7.5,20 C8.88071179,20 10,18.8359423 10,17.4000015 L10,9"></path>
+            </g>
+        </g>
+    </g>
+</svg>

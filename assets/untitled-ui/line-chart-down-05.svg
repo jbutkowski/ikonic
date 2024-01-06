@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>line-chart-down-05</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Charts" transform="translate(-608, -396)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="Icon" transform="translate(610, 398)">
+                <path d="M10,20 C15.5228481,20 20,15.5228481 20,10 C20,4.47715235 15.5228481,0 10,0 C4.47715235,0 0,4.47715235 0,10 C0,15.5228481 4.47715235,20 10,20 Z"></path>
+                <path d="M4,8 L7.43431473,11.4343147 C7.63232294,11.6323229 7.73132717,11.731327 7.84549141,11.7684212 C7.94591311,11.8010502 8.05408689,11.8010502 8.15450859,11.7684212 C8.26867283,11.731327 8.36767679,11.6323232 8.56568527,11.4343147 L11.4343147,8.56568527 C11.6323229,8.36767706 11.7313272,8.26867304 11.8454914,8.23157883 C11.9459131,8.19894984 12.0540869,8.19894984 12.1545086,8.23157883 C12.2686728,8.26867304 12.3676768,8.36767679 12.5656853,8.56568527 L16,12"></path>
+            </g>
+        </g>
+    </g>
+</svg>

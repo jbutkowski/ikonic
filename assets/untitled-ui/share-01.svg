@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>share-01</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="General" transform="translate(-608, -1956)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="Icon" transform="translate(611, 1959)">
+                <polyline points="13 4 9 0 5 4"></polyline>
+                <path d="M18,12.6478542 L18,13.1999998 L18,13.1999998 C18,14.8801575 18,15.7202358 17.6730194,16.3619709 C17.3853989,16.9264574 16.9264584,17.3853998 16.3619709,17.6730194 C15.7202368,18 14.8801575,18 13.1999998,18 L4.79999971,18 C3.11984229,18 2.2797637,18 1.6380285,17.6730194 C1.07354224,17.3853998 0.614600539,16.9264574 0.326980442,16.3619709 C0,15.7202358 0,14.8801575 0,13.1999998 L7.93392616e-17,12.6478542 C-5.53363511e-17,11.5481444 0.139238417,11.0236203 0.400699056,10.5347314 C0.662159695,10.0458426 1.04584256,9.66215969 1.53473144,9.40069906 C2.02362033,9.13923842 2.5481444,9 3.64785424,9 M9,0 L9,12"></path>
+            </g>
+        </g>
+    </g>
+</svg>

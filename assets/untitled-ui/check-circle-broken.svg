@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>check-circle-broken</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="General" transform="translate(-64, -1036)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="Icon" transform="translate(66, 1038)">
+                <path d="M20,9.08572388 L20,10.005724 C19.9987727,12.1621461 19.3005016,14.2603993 18.0093346,15.9875488 C16.7181675,17.7146983 14.9032845,18.978203 12.8353577,19.5896244 C10.7674308,20.2010458 8.5572598,20.1276242 6.53447056,19.3803082 C4.51168132,18.6329921 2.78465462,17.2518238 1.61096048,15.442791 C0.43726635,13.6337582 -0.120208833,11.4937878 0.02167679,9.34203815 C0.163562413,7.19028854 0.997206926,5.14205015 2.39827991,3.50279665 C3.79935288,1.86354315 5.6927855,0.721106097 7.79618931,0.2458698 C9.89959311,-0.229366496 12.1002684,-0.0119392872 14.0700054,0.865724266"></path>
+                <polyline points="20 2 10 12.0100002 7 9.01000023"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

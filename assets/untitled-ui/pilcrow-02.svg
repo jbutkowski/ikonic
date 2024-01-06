@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pilcrow-02</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Editor" transform="translate(-608, -996)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="pilcrow-02" transform="translate(613, 1000)">
+                <path d="M12.5,16 L12.5,0 M14.5,0 L4,0 C1.79086161,0 0,1.79086113 0,4 C0,6.20913887 1.79086113,8 4,8 L9,8 M9,16 L9,0 M7,16 L14.5,16" id="Icon"></path>
+            </g>
+        </g>
+    </g>
+</svg>

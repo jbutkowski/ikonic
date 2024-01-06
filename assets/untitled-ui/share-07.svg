@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>share-07</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="General" transform="translate(-880, -236)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="Icon" transform="translate(883, 238)">
+                <path d="M15,6 C16.6568542,6 18,4.65685415 18,3 C18,1.34314573 16.6568542,0 15,0 C13.3431457,0 12,1.34314573 12,3 C12,4.65685415 13.3431457,6 15,6 Z"></path>
+                <path d="M3,13 C4.65685415,13 6,11.6568542 6,10 C6,8.34314573 4.65685415,7 3,7 C1.34314573,7 0,8.34314573 0,10 C0,11.6568542 1.34314573,13 3,13 Z"></path>
+                <path d="M15,20 C16.6568542,20 18,18.6568542 18,17 C18,15.3431457 16.6568542,14 15,14 C13.3431457,14 12,15.3431457 12,17 C12,18.6568542 13.3431457,20 15,20 Z"></path>
+                <path d="M12.4200001,15.4899998 L5.59000015,11.5100002 M12.4099998,4.51000023 L5.59000015,8.48999977"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>building-06</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="General" transform="translate(-64, -836)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="building-06" transform="translate(66, 839)">
+                <path d="M9,8 L4.19999981,8 C3.07989478,8 2.51984262,8 2.09201908,8.21798706 C1.71569496,8.4097338 1.40973368,8.71569496 1.21798694,9.09201908 C1,9.51984262 1,10.079895 1,11.1999998 L1,18 M19,18 L19,3.20000005 C19,2.07989502 19,1.51984251 18.7820129,1.09201896 C18.5902662,0.715694845 18.2843065,0.409733713 17.9079819,0.217986971 C17.4801588,0 16.920105,0 15.8000002,0 L12.1999998,0 C11.079895,0 10.5198426,0 10.0920191,0.217986971 C9.71569496,0.409733713 9.4097338,0.715694845 9.21798706,1.09201896 C9,1.51984251 9,2.07989502 9,3.19999981 L9,18 M0,18 L20,18 M15.5,4 L12.5,4 M15.5,8 L12.5,8 M12.5,12 L15.5,12" id="Icon"></path>
+            </g>
+        </g>
+    </g>
+</svg>

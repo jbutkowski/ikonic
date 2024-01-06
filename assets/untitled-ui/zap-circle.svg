@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>zap-circle</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="General" transform="translate(-880, -1836)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="Icon" transform="translate(882, 1838)">
+                <path d="M10,3.5 L5.36158991,10.2467785 C5.08236,10.6529311 4.94274503,10.8560071 4.95113087,11.0248089 C4.95843438,11.1718242 5.03014714,11.3081522 5.14715624,11.397459 C5.28150518,11.5 5.52794495,11.5 6.02082443,11.5 L10,11.5 L10,16.5 L14.6384096,9.75322151 C14.9176395,9.34706894 15.057255,9.14399292 15.0488691,8.97519112 C15.0415656,8.82817584 14.9698524,8.69184776 14.8528433,8.60254097 C14.7184943,8.5 14.472055,8.5 13.9791756,8.5 L10,8.5 L10,3.5 Z"></path>
+                <path d="M10,20 C15.5228481,20 20,15.5228481 20,10 C20,4.47715235 15.5228481,0 10,0 C4.47715235,0 0,4.47715235 0,10 C0,15.5228481 4.47715235,20 10,20 Z"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>subscript</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Editor" transform="translate(-880, -676)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="Icon" transform="translate(883, 681)">
+                <line x1="0" y1="0" x2="10" y2="10"></line>
+                <line x1="10" y1="0" x2="0" y2="10"></line>
+                <path d="M18,14.0000801 L14,14.0000801 C14,12.5000801 14.4400001,12.0000801 15.5,11.5000801 C16.5599999,11.0000801 18,10.3300802 18,9.00008011 C18,8.53008011 17.8300005,8.07008016 17.5200005,7.71008015 C17.1998532,7.34758297 16.7648943,7.10606822 16.2879429,7.02596951 C15.8109914,6.94587079 15.3209988,7.03205073 14.8999996,7.27008057 C14.4799996,7.51008056 14.16,7.89008027 14,8.34008026"></path>
+            </g>
+        </g>
+    </g>
+</svg>

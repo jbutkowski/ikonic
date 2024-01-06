@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>rss-02</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Media-&amp;-devices" transform="translate(-608, -796)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="Icon" transform="translate(611, 799)">
+                <path d="M2,18 C0.895656943,18 0,17.1043421 0,16 C0,14.895656 0.895656943,14 2,14 C3.10434306,14 4,14.895656 4,16 C4,17.1043421 3.10434306,18 2,18 Z"></path>
+                <path d="M0.000244140625,10.0224628 C5.18521643,9.24286079 8.75586063,12.8146291 7.97738361,17.9996014"></path>
+                <path d="M0.000244140625,5.03784466 C7.93801069,4.25824261 13.7417145,10.0619473 12.9621124,17.9997139"></path>
+                <path d="M0.000244140625,0.0521168746 C10.6919298,-0.726360258 18.7264447,7.30815411 17.9479675,18"></path>
+            </g>
+        </g>
+    </g>
+</svg>

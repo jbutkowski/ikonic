@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>corner-down-left</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Arrows" transform="translate(-608, -676)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="Icon" transform="translate(612, 680)">
+                <path d="M5,6 L4.81529219,6.18470781 C3.67233092,7.32766908 3.05874418,8.33508154 2.73711206,9.39623602 C2.41547995,10.4573905 2.41547995,11.5426095 2.73711206,12.603764 C3.05874418,13.6649185 3.67233092,14.6723309 4.81529219,15.8152922 L5,16 L5,16"></path>
+                <path d="M16,1.39999962 L16,1.39999962 L16,1.39999962 C16,4.76031494 16,6.4404726 15.3460388,7.72394276 C14.7707987,8.85291576 13.8529158,9.77079868 12.7239428,10.3460388 C11.4404726,11 9.76031494,11 6.39999962,11 C5.30218201,11 4.41222499,10.110043 4.41222499,9.01222538 C4.41222499,8.35765777 4.73447685,7.74504717 5.273868,7.37421575"></path>
+            </g>
+        </g>
+    </g>
+</svg>

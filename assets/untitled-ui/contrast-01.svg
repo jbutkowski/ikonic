@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>contrast-01</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Editor" transform="translate(-64, -956)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="contrast-01" transform="translate(66, 958)">
+                <path d="M11.7347956,0.149937004 C11.1713448,0.0513854176 10.5916734,0 10,0 C4.47715235,0 0,4.47715235 0,10 C0,15.5228481 4.47715235,20 10,20 C10.5909779,20 11.1699826,19.9487362 11.7328091,19.8504105 M10,20 L10,0 M18.1933842,4.26540565 C17.5240779,3.31089473 16.6922154,2.4786942 15.7379951,1.8090018 M19.8501377,8.26562977 C19.9486408,8.82894707 20,9.40847588 20,10 C20,10.5915241 19.9486408,11.171052 19.8501377,11.7343683 M18.1891613,15.7406111 C17.5203328,16.692955 16.6895962,17.5233269 15.7369394,18.1917381" id="Icon"></path>
+            </g>
+        </g>
+    </g>
+</svg>

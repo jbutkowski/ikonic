@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>attachment-02</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Editor" transform="translate(-64, -356)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="attachment-02" transform="translate(70.5, 358)">
+                <path d="M11,6.98826542 L11,14.5 L11,14.5 C11,17.537571 8.53756714,20 5.5,20 C2.46243382,20 0,17.5375671 0,14.5 L0,3.66666555 C0,1.6416223 1.6416235,0 3.66666675,0 C5.69171047,0 7.33333397,1.6416223 7.33333397,3.66666579 L7.33333397,14.4457378 C7.33333397,15.4582596 6.51252222,16.2790699 5.5,16.2790699 C4.48747873,16.2790699 3.66666698,15.4582596 3.66666698,14.4457378 L3.66666698,8.38361444 C3.66666698,6.21807405 5.20596097,4.35827413 7.33333349,3.95348859" id="Icon"></path>
+            </g>
+        </g>
+    </g>
+</svg>

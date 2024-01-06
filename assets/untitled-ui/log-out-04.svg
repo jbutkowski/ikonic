@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>log-out-04</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="General" transform="translate(-608, -676)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="Icon" transform="translate(610, 679)">
+                <polyline points="16 5 20 9 16 13"></polyline>
+                <path d="M20,9 L7,9 M13,1.20403957 C11.7252493,0.438274264 10.245244,0 8.66666698,0 C3.88019848,0 0,4.02943707 0,9 C0,13.9705629 3.88019848,18 8.66666698,18 C10.245244,18 11.7252493,17.5617256 13,16.7959595"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>flip-forward</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Arrows" transform="translate(-880, -356)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="Icon" transform="translate(883, 361)">
+                <path d="M14,0 C16.209139,2.209139 16.209139,5.790861 14,8 L14,8 L14,8"></path>
+                <path d="M11.636039,4 L4.5,4 L4.5,4 C2.01471853,4 0,6.01471853 0,8.5 C0,10.9852815 2.01471877,13 4.5,13 L4.73711282,13 C5.97003788,13 6.82337875,12.9252057 7.61534588,12.7426768 C8.40731301,12.560148 9.10807065,12.2698847 9.79714335,11.8389467 C10.4862161,11.4080088 11.1425068,10.8574932 12.0143164,9.98568357"></path>
+            </g>
+        </g>
+    </g>
+</svg>

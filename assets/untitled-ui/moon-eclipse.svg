@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>moon-eclipse</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Weather" transform="translate(-608, -196)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="Icon" transform="translate(610, 198)">
+                <path d="M14.3803368,18.9921074 C13.0575027,19.6377068 11.5710602,20 10,20 C4.47715235,20 0,15.5228481 0,10 C0,4.47715235 4.47715235,0 10,0 C11.5710583,0 13.057498,0.362293303 14.380331,1.00789094 C14.2542067,1.00264764 14.1274128,1 14,1 C9.02943707,1 5,5.02943707 5,10 C5,14.9705629 9.02943707,19 14,19 C14.1274109,19 14.2542143,18.9973507 14.3803368,18.9921074 Z"></path>
+                <path d="M18.001749,4.00022125 C20.666652,7.54505348 20.6660824,12.4578052 18.0000401,16.0020523"></path>
+            </g>
+        </g>
+    </g>
+</svg>

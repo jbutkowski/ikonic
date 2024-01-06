@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>marker-pin-04</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Maps-&amp;-travel" transform="translate(-608, -276)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="Icon" transform="translate(610, 278)">
+                <path d="M10,15 C11.5,12 16,10.0637083 16,6 C16,2.68629122 13.3137083,0 10,0 C6.68629122,0 4,2.68629122 4,6 C4,10.0637083 8.5,12 10,15 Z"></path>
+                <path d="M10,7 C10.5522847,7 11,6.55228472 11,6 C11,5.44771522 10.5522847,5 10,5 C9.44771522,5 9,5.44771522 9,6 C9,6.55228472 9.44771522,7 10,7 Z"></path>
+                <path d="M3,12.286355 C1.14863765,13.1030705 0,14.2411726 0,15.5 C0,17.9852815 4.47715235,20 10,20 C15.5228481,20 20,17.9852815 20,15.5 C20,14.2411726 18.8513622,13.1030705 17,12.286355"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>power-01</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Media-&amp;-devices" transform="translate(-608, -316)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="Icon" transform="translate(610.995, 318)">
+                <path d="M15.3650045,4.63999987 C16.6233832,5.89878941 17.4802589,7.50244117 17.8272877,9.24818993 C18.1743165,10.9939387 17.9959151,12.8033882 17.31464,14.447752 C16.633365,16.0921158 15.4798099,17.4975501 13.9998312,18.4863529 C12.5198525,19.4751557 10.7799106,20.0029221 9,20.0029221 C7.22009706,20.0029221 5.48015606,19.4751557 4.00017738,18.4863529 C2.5201987,17.4975501 1.3666445,16.0921158 0.685369432,14.447752 C0.00409436226,12.8033882 -0.174307197,10.9939387 0.172721595,9.24818993 C0.519750386,7.50244117 1.37662566,5.89878941 2.63500428,4.63999987"></path>
+                <line x1="9.00500393" y1="0" x2="9.00500393" y2="10"></line>
+            </g>
+        </g>
+    </g>
+</svg>

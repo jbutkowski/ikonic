@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>sun-setting-02</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Weather" transform="translate(-608, -556)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="sun-setting-02" transform="translate(610, 559)">
+                <path d="M0,13.5 L20,13.5 M2,17 L18,17 M10,2 L10,0 M0,10 L2,10 M2.89990234,2.89990234 L4.314116,4.314116 M17.0997601,2.89990234 L15.6855469,4.314116 M18,10 L20,10 M5,10 C5,7.23857617 7.23857617,5 10,5 C12.7614241,5 15,7.23857617 15,10" id="Icon"></path>
+            </g>
+        </g>
+    </g>
+</svg>

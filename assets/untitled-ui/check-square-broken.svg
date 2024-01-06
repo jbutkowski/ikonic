@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>check-square-broken</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="General" transform="translate(-64, -1236)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="Icon" transform="translate(67, 1239)">
+                <polyline points="6 8 9 11 19 1"></polyline>
+                <path d="M13,0 L4.80000019,0 C3.11984253,0 2.2797637,0 1.6380285,0.326980442 C1.07354224,0.614600539 0.614600539,1.07354224 0.326980442,1.6380285 C0,2.2797637 0,3.11984229 0,4.79999971 L0,13.1999998 C0,14.8801575 0,15.7202368 0.326980442,16.3619709 C0.614600539,16.9264584 1.07354224,17.3853989 1.6380285,17.6730194 C2.2797637,18 3.11984229,18 4.79999971,18 L13.1999998,18 C14.8801575,18 15.7202368,18 16.3619709,17.6730194 C16.9264584,17.3853989 17.3853989,16.9264584 17.6730194,16.3619709 C18,15.7202368 18,14.8801575 18,13.1999998 L18,9"></path>
+            </g>
+        </g>
+    </g>
+</svg>

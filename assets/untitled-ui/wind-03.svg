@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>wind-03</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Weather" transform="translate(-880, -636)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="wind-03" transform="translate(882, 639)">
+                <path d="M14.763916,3.5 C15.3132367,2.88625062 16.1115232,2.5 17.0000229,2.5 C18.656877,2.5 20.0000229,3.84314573 20.0000229,5.5 C20.0000229,7.15685415 18.656877,8.5 17.0000229,8.5 L11,8.5 M4.76389503,1 C5.31321573,0.386250615 6.11150217,0 7,0 C8.65685654,0 10,1.34314561 10,3 C10,4.65685463 8.65685654,6 7,6 L0,6 M8.76389503,17 C9.31321526,17.6137494 10.1115017,18 11,18 C12.6568565,18 14,16.6568544 14,15 C14,13.3431454 12.6568565,12 11,12 L0,12" id="Icon"></path>
+            </g>
+        </g>
+    </g>
+</svg>

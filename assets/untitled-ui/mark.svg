@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>mark</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Maps-&amp;-travel" transform="translate(-336, -596)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="Icon" transform="translate(338, 598)">
+                <path d="M10,18 C14.4182787,18 18,14.4182787 18,10 C18,5.58172226 14.4182787,2 10,2 C5.58172226,2 2,5.58172226 2,10 C2,14.4182787 5.58172226,18 10,18 Z"></path>
+                <path d="M10,13 C11.6568542,13 13,11.6568542 13,10 C13,8.34314573 11.6568542,7 10,7 C8.34314573,7 7,8.34314573 7,10 C7,11.6568542 8.34314573,13 10,13 Z"></path>
+                <path d="M18,10 L20,10 M0,10 L2,10 M10,0 L10,2 M10,20 L10,18"></path>
+            </g>
+        </g>
+    </g>
+</svg>

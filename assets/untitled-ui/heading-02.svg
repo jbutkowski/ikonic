@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>heading-02</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Editor" transform="translate(-336, -836)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="heading-02" transform="translate(340, 840)">
+                <path d="M2,16 L2,0 M14,16 L14,0 M5.5,16 L5.5,0 M0,0 L7.5,0 M5.5,8 L14,8 M0,16 L7.5,16 M12,16 L16,16 M16,0 L12,0" id="Icon"></path>
+            </g>
+        </g>
+    </g>
+</svg>

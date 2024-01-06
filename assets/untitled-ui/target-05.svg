@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>target-05</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="General" transform="translate(-880, -756)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="Icon" transform="translate(882, 758)">
+                <path d="M10,20 C15.5228481,20 20,15.5228481 20,10 C20,4.47715235 15.5228481,0 10,0 C4.47715235,0 0,4.47715235 0,10 C0,15.5228481 4.47715235,20 10,20 Z"></path>
+                <path d="M10,16 C13.3137083,16 16,13.3137083 16,10 C16,6.68629146 13.3137083,4 10,4 C6.68629146,4 4,6.68629146 4,10 C4,13.3137083 6.68629146,16 10,16 Z"></path>
+                <path d="M10,12 C11.1045694,12 12,11.1045694 12,10 C12,8.89543045 11.1045694,8 10,8 C8.89543045,8 8,8.89543045 8,10 C8,11.1045694 8.89543045,12 10,12 Z"></path>
+            </g>
+        </g>
+    </g>
+</svg>

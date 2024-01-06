@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>sunrise</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Weather" transform="translate(-608, -636)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="Icon" transform="translate(610, 638)">
+                <polyline points="14 4 10 0 6 4"></polyline>
+                <path d="M0,16 L2,16 M2.89990234,8.89990234 L4.314116,10.3141155 M17.1000042,8.89990234 L15.685791,10.3141155 M18,16 L20,16 M5,16 C5,13.2385762 7.23857617,11 10,11 C12.7614241,11 15,13.2385762 15,16 M0,20 L20,20 M10,7 L10,0"></path>
+            </g>
+        </g>
+    </g>
+</svg>

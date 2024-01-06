@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>help-circle</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="General" transform="translate(-336, -1196)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="Icon" transform="translate(338, 1198)">
+                <path d="M10,20 C15.5228481,20 20,15.5228481 20,10 C20,4.47715235 15.5228481,0 10,0 C4.47715235,0 0,4.47715235 0,10 C0,15.5228481 4.47715235,20 10,20 Z"></path>
+                <path d="M7.09000015,7 C7.32510418,6.33166778 7.78915238,5.76810691 8.3999548,5.40913296 C9.01075721,5.05015901 9.7288956,4.91893829 10.4271765,5.03871202 C11.1254573,5.15848576 11.7588166,5.52152443 12.2150774,6.06352806 C12.6713382,6.60553169 12.9210556,7.2915222 12.9200001,8 C12.9200001,9.33333333 11.9200001,10.3333333 9.92000008,11"></path>
+                <line x1="10" y1="15" x2="10.0100002" y2="15"></line>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>moon-01</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Weather" transform="translate(-336, -636)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="moon-01" transform="translate(338, 638)">
+                <path d="M20,13.8442268 C18.6866057,14.4381955 17.2286483,14.7688456 15.6934652,14.7688456 C9.91529036,14.7688456 5.2311554,10.0847111 5.2311554,4.30653524 C5.2311554,2.77135265 5.56180495,1.31339693 6.15577364,0 C2.52576137,1.64163172 0,5.29469919 0,9.53769112 C0,15.315866 4.68413639,20 10.4623108,20 C14.7053027,20 18.3583694,17.4742398 20,13.8442268 Z" id="Icon"></path>
+            </g>
+        </g>
+    </g>
+</svg>

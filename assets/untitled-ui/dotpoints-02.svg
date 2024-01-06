@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>dotpoints-02</title>
+    <g id="Line-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Editor" transform="translate(-336, -476)" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="Icon" transform="translate(339, 479.5)">
+                <path d="M3,1.5 C3,2.3284272 2.3284272,3 1.5,3 C0.671572804,3 0,2.3284272 0,1.5 C0,0.671572804 0.671572804,0 1.5,0 C2.3284272,0 3,0.671572804 3,1.5 Z"></path>
+                <path d="M3,15.5 C3,16.3284272 2.3284272,17 1.5,17 C0.671572804,17 0,16.3284272 0,15.5 C0,14.6715728 0.671572804,14 1.5,14 C2.3284272,14 3,14.6715728 3,15.5 Z"></path>
+                <path d="M3,8.5 C3,9.3284272 2.3284272,10 1.5,10 C0.671572804,10 0,9.3284272 0,8.5 C0,7.6715728 0.671572804,7 1.5,7 C2.3284272,7 3,7.6715728 3,8.5 Z"></path>
+                <path d="M7,1.5 L18,1.5 M7,15.5 L18,15.5 M18,8.5 L7,8.5"></path>
+            </g>
+        </g>
+    </g>
+</svg>
