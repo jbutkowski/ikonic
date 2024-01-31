@@ -1,6 +1,13 @@
 # Ikonic
 
-A pure ruby wrapper around your favourite icon libraries
+A pure ruby wrapper around your favourite icon libraries.
+
+ - [Heroicons](https://heroicons.com/)
+ - [Bootstrap Icons](https://icons.getbootstrap.com/)
+ - [Hugeicons (free)](https://hugeicons.com/icons?style=Stroke&type=Rounded)
+ - [Octicons](https://primer.style/foundations/icons)
+ - [UntitledUI icons (free)](https://www.untitledui.com/free-icons)
+
 
 ## Installation
 
