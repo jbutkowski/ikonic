@@ -1,6 +1,6 @@
 # Ikonic
 
-## A pure ruby wrapper around your favourite icon libraries
+A pure ruby wrapper around your favourite icon libraries
 
 ## Installation
 
@@ -9,21 +9,36 @@
 
 ## Usage
 
-Use the following when ever you want an icon ...
+Use the following whenever you want an icon...
 
-    Ikonic.icon 'ban'
+```ruby
+Ikonic.icon 'ban'
+```
 
-  <img src="./assets/heroicons/outline/ban.svg" width="24px" height="24px">
+<img src="./assets/heroicons/outline/ban.svg" width="24px" height="24px">
+
+Or with options...
+
+```ruby
+Ikonic.icon 'bookmark-alt', { theme: 'heroicon', style: 'outline', width: 1, title: 'This is an icon' }
+```
+
+<img src="./assets/heroicons/outline/bookmark-alt.svg" width="24px" height="24px">
+
+or create a helper method with custom default...
+
+```ruby
+def ikon(name, options = {})
   
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M18.364 18.364A9 9 0 005.636 5.636m12.728 12.728A9 9 0 015.636 5.636m12.728 12.728L5.636 5.636"/></svg>
+  # custom default options
+  options = options.dup
+  options.fetch(:theme, 'bootstrap')
+  options.fetch(:class, 'icon')
+  options.fetch(:size, 18)
 
-Or with options ...    
-
-    Ikonic.icon 'bookmark-alt', { theme: 'heroicon', style: 'outline', width: 1, title: 'This is an icon' }
-
-  <img src="./assets/heroicons/outline/bookmark-alt.svg" width="24px" height="24px">
-
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="M16 4v12l-4-2-4 2V4M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"/></svg>
+  raw(Ikonic.icon(name, options))
+end
+```
 
 
 ## Options
@@ -35,6 +50,7 @@ Or with options ...
     size: 24            # Size. 24px
     width: 2            # Stroke width
     title:              # Title attribute (no default)
+    class:              # Class name (no default)
 
 
 **Themes (icon sets)**
