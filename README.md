@@ -20,7 +20,7 @@ Ikonic.icon 'ban'
 Or with options...
 
 ```ruby
-Ikonic.icon 'bookmark-alt', { theme: 'heroicon', style: 'outline', width: 1, title: 'This is an icon' }
+Ikonic.icon 'bookmark-alt', { theme: 'heroicons', style: 'outline', width: 1, title: 'This is an icon' }
 ```
 
 <img src="./assets/heroicons/outline/bookmark-alt.svg" width="24px" height="24px">
@@ -29,7 +29,7 @@ or create a helper method with custom default...
 
 ```ruby
 def ikon(name, options = {})
-  
+
   # custom default options
   options = options.dup
   options.fetch(:theme, 'bootstrap')
