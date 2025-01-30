@@ -1,3 +1,3 @@
 module Ikonic
-  VERSION = "0.220"
+  VERSION = "0.2.1"
 end

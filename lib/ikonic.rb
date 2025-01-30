@@ -1,31 +1,38 @@
-class Ikonic
-  def self.icon(name, options={})
+module Ikonic
+  DEFAULTS = {
+    theme: 'bootstrap'
+  }.freeze
 
-    # Set defaults
-    DEFAULTS.each { |key, val| options[key] ||= val }
+  def self.icon(name, options = {})
+    # Merge defaults with provided options
+    options = DEFAULTS.merge(options)
 
-    template_format = options[:theme] == 'heroicons' ? 
-      "../assets/#{options[:theme]}/#{options[:style]}/#{name}.svg" :
-      "../assets/#{options[:theme]}/#{name}.svg"
+    # Determine template path
+    style_path = options[:style] ? "#{options[:style]}/" : ""
+    template_path = File.join(__dir__, "../assets/#{options[:theme]}/#{style_path}#{name}.svg")
 
+    # Read and process template
+    template = File.read(template_path)
+    template.gsub!(/^<\?xml.+?>\n/, '') # Remove XML declaration
 
-    template = File.read(File.join(__dir__, template_format))
+    # Apply optional attributes
+    apply_optional_attributes!(template, options)
 
-    template.gsub!(
-        /stroke-width="(\d+)"/, 
-        "stroke-width=\"#{options[:width]}\""
-      ) if options[:width]
-
-    template.insert(5, "class=\"#{options[:class]}\" ") if options[:class]
-    template.insert(5, "title=\"#{options[:title]}\" ") if options[:title]
-
-    template
+    # Return safe HTML if in Rails context
+    defined?(Rails) ? template.html_safe : template
   end
 
-  DEFAULTS = {
-    theme: 'heroicons',
-    style: 'outline',
-    size: 24,
-    width: 2
-  }
+  def self.apply_optional_attributes!(template, options)
+    if options[:width]
+      template.gsub!(/stroke-width="(\d+\.\d+)"/, "stroke-width=\"#{options[:width]}\"")
+    end
+
+    if options[:class]
+      template.insert(5, "class=\"#{options[:class]}\" ")
+    end
+
+    if options[:title]
+      template.insert(5, "title=\"#{options[:title]}\" ")
+    end
+  end
 end
