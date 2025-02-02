@@ -24,7 +24,7 @@ module Ikonic
 
   def self.apply_optional_attributes!(template, options)
     if options[:width]
-      template.gsub!(/stroke-width="(\d+\.\d+)"/, "stroke-width=\"#{options[:width]}\"")
+      template.gsub!(/stroke-width="((\d+\.\d+|\d+))"/, "stroke-width=\"#{options[:width]}\"")
     end
 
     if options[:class]
