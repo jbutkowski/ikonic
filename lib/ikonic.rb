@@ -34,5 +34,11 @@ module Ikonic
     if options[:title]
       template.insert(5, "title=\"#{options[:title]}\" ")
     end
+
+    if options[:data]
+      options[:data].each do |key, value|
+        template.insert(5, "data-#{key.gsub(/_/,'-')}=\"#{value}\" ")
+      end
+    end
   end
 end
