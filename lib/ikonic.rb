@@ -37,7 +37,7 @@ module Ikonic
 
     if options[:data]
       options[:data].each do |key, value|
-        template.insert(5, "data-#{key.gsub(/_/,'-')}=\"#{value}\" ")
+        template.insert(5, "data-#{key.to_s.gsub(/_/,'-')}=\"#{value}\" ")
       end
     end
   end
